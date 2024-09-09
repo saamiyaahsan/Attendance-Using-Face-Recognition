@@ -25,7 +25,9 @@
 ### Step-7) it will create .csv file for every subject you enter and separate every .csv file according the subject
 ### Step-8) You can view the attendance after clicking the View Attendance button. It will show records in tabular format.
 
-<br>
+
+
+
 ## Sample UI Obtained 
 
 ### Step 1 : The application is opened.
@@ -34,5 +36,42 @@
 ![face1](https://github.com/user-attachments/assets/f8473fc3-84f6-4e31-b90b-29233eae7dd9)
 
 
+### Step 2 : Registration of new student
 
 
+![face2](https://github.com/user-attachments/assets/ecd32592-d1a6-4e30-9535-a607eaf6ce4e)
+
+
+
+### Step 3 : Training of new face
+
+
+![face3](https://github.com/user-attachments/assets/3e7e5192-a607-4d41-a72e-f537d22ae392)
+
+
+
+### Step 4: Filling of attendance
+
+
+![face4](https://github.com/user-attachments/assets/ebc6e788-a125-4692-950d-8175ff01f3a7)
+
+
+
+### Step 5: Attendance is recording
+
+
+![face5](https://github.com/user-attachments/assets/690ce6a9-abea-4583-ba39-022f2a497a5e)
+
+
+
+### Step 6: Attendance is displayed
+
+
+![face6](https://github.com/user-attachments/assets/d81eb3e7-497a-4ab9-828f-040053015d7d)
+
+
+
+### Step 7: Overall attendance is displayed
+
+
+![face7](https://github.com/user-attachments/assets/4cf27cae-e33b-4fdd-bc49-4ccb4accf048)
