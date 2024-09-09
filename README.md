@@ -83,10 +83,10 @@
 ## INSTALLED MODULES
 Python 3 will be required for the app to run. other modules can also be found in requirements.txt:
 
-numpy==1.16.1
-opencv-contrib-python==4.2.0.34
-opencv-python==4.2.0.34
-openpyxl==3.0.3
-pandas==1.0.3
-Pillow==7.1.1
-pyttsx3==2.71
+#### numpy==1.16.1
+#### opencv-contrib-python==4.2.0.34
+#### opencv-python==4.2.0.34
+#### openpyxl==3.0.3
+#### pandas==1.0.3
+#### Pillow==7.1.1
+#### pyttsx3==2.71
