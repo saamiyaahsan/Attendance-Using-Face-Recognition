@@ -30,7 +30,7 @@
 
 ## Sample UI Obtained 
 
-#### Step 1 : The application is opened.
+### Step 1 : The application is opened.
 
 
 ![face1](https://github.com/user-attachments/assets/f8473fc3-84f6-4e31-b90b-29233eae7dd9)
@@ -75,3 +75,7 @@
 
 
 ![face7](https://github.com/user-attachments/assets/4cf27cae-e33b-4fdd-bc49-4ccb4accf048)
+
+
+
+### Hence these steps clearly demonstrate the entire working of the application from the registering of new students to displaying the overall attendance of each student in a particular subject.
