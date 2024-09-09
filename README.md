@@ -27,6 +27,7 @@
 
 ## Sample UI Obtained 
 
+Step 1 : The application is opened.
 ![face1](https://github.com/user-attachments/assets/f8473fc3-84f6-4e31-b90b-29233eae7dd9)
 
 
