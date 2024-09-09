@@ -27,7 +27,8 @@
 
 ## Sample UI Obtained 
 
-"C:\Users\Dell\Desktop\face1.png"
+![face1](https://github.com/user-attachments/assets/f8473fc3-84f6-4e31-b90b-29233eae7dd9)
+
 
 
 
