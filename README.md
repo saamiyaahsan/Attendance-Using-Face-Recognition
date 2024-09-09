@@ -25,7 +25,7 @@
 ### Step-7) it will create .csv file for every subject you enter and separate every .csv file according the subject
 ### Step-8) You can view the attendance after clicking the View Attendance button. It will show records in tabular format.
 
-
+<br>
 ## Sample UI Obtained 
 
 ### Step 1 : The application is opened.
